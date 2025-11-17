@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+html,
+body{
+  height: 100%;
+  width: 100%;
+  color: white;
+}
+body{
+  background-color: #111;
+}
+
+.nav{
+  background-color: lightblue;
+  margin: 5px;
+  padding : 20px;
+  border: 2px solid goldenrod;
+  border-radius: 5px;
+  color: red;
+}
+
+.card{
+  background-color: rgb(204, 9, 42);
+  border-radius: 5px;
+  margin: 20px;
+  padding : 20px;
+  color:aliceblue;
+}
+
